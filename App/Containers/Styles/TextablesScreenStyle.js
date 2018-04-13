@@ -9,20 +9,20 @@ export default StyleSheet.create({
   },
   row: {
     flex: 1,
-    backgroundColor: Colors.fire,
+    backgroundColor: Colors.frost,
     marginVertical: Metrics.smallMargin,
     justifyContent: 'center'
   },
   boldLabel: {
     fontWeight: 'bold',
     alignSelf: 'center',
-    color: Colors.snow,
+    color: Colors.text,
     textAlign: 'center',
     marginBottom: Metrics.smallMargin
   },
   label: {
     textAlign: 'center',
-    color: Colors.snow
+    color: Colors.charcoal
   },
   listContent: {
     marginTop: Metrics.baseMargin
